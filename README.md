@@ -5,19 +5,19 @@
 **Duration:** JUNE 20th to AUGUST 20th,2024.
 **Mentor:** 
 
+
 ## Overview of the Project
 
 ### Project: Password Strength Checker
 
 This repository contains a Python script for checking the strength of a password. The script evaluates the password based on various criteria and provides feedback on its strength. It also checks if the password is among common passwords, which can make it more vulnerable to attacks.
 
-## Features
+### Features
 
 - **Character Class Check**: Ensures the password contains at least one uppercase letter, one lowercase letter, one digit, and one special character.
 - **Length Check**: Evaluates the password based on its length, giving higher scores to longer passwords.
 - **Common Password Check**: Compares the password against a list of common passwords to ensure it is not easily guessable.
 
-## Usage
 
 ### Prerequisites
 
