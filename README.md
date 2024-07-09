@@ -1,9 +1,9 @@
-**Name:**ANKITA PATTNAIK
-**Company:**CODETECH IT SOLUTIONS
-**ID:**CT8CSEH1196
-**Domain:**"CYBER SECURITY&ETHICAL HACKING"
-**Duration:**JUNE 20th to AUGUST 20th,2024.
-**Mentor:**
+**Name:** ANKITA PATTNAIK
+**Company:** CODETECH IT SOLUTIONS
+**ID:** CT8CSEH1196
+**Domain:** "CYBER SECURITY&ETHICAL HACKING"
+**Duration:** JUNE 20th to AUGUST 20th,2024.
+**Mentor:** 
 
 ## Overview of the Project
 
